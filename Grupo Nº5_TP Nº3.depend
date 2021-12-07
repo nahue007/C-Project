@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1636424833 source:c:\users\seba\desktop\seba\progamacion\fi-unlz_2020\grupo nº5_tp nº3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcional.h"
+	<string.h>
+
+1636422928 c:\users\seba\desktop\seba\progamacion\fi-unlz_2020\grupo nº5_tp nº3\funcional.h
+
+1636424833 source:c:\users\seba\desktop\seba\progamacion\fi-unlz_2020\grupo nº5_tp nº3\funcional.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcional.h"
+
+1636499496 source:c:\users\seba\desktop\seba\progamacion\fi-unlz_2020\grupo nº5_tp nº3 - copia\funcional.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcional.h"
+
+1636498966 c:\users\seba\desktop\seba\progamacion\fi-unlz_2020\grupo nº5_tp nº3 - copia\funcional.h
+
+1636501693 source:c:\users\seba\desktop\seba\progamacion\fi-unlz_2020\grupo nº5_tp nº3 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcional.h"
+	<string.h>
+	<stdbool.h>
+
+1636645154 source:c:\users\pablo\desktop\euge\euge facu\2c21\fundamentos de programación\integrador\grupo nº5_tp nº3 - copia - cambios euge y pablo\funcional.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcional.h"
+
+1636645154 c:\users\pablo\desktop\euge\euge facu\2c21\fundamentos de programación\integrador\grupo nº5_tp nº3 - copia - cambios euge y pablo\funcional.h
+
+1636644272 source:c:\users\pablo\desktop\euge\euge facu\2c21\fundamentos de programación\integrador\grupo nº5_tp nº3 - copia - cambios euge y pablo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcional.h"
+	<string.h>
+	<stdbool.h>
+
+1636858291 source:c:\users\seba\desktop\seba\sociologia\grupo nº5_tp nº3 - copia2\funcional.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcional.h"
+
+1636855550 c:\users\seba\desktop\seba\sociologia\grupo nº5_tp nº3 - copia2\funcional.h
+
+1636854931 source:c:\users\seba\desktop\seba\sociologia\grupo nº5_tp nº3 - copia2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcional.h"
+	<string.h>
+	<stdbool.h>
+
